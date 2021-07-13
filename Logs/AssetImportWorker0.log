@@ -1,0 +1,228 @@
+Unity Editor version:    2021.2.0a16 (663b19a0829e)
+Branch:                  trunk
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.4 (Build 20F71)
+Darwin version:          20.5.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ivangarmasev/UnityProjects/Mutation Neural Network
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61313
+Successfully changed project path to: /Users/ivangarmasev/UnityProjects/Mutation Neural Network
+/Users/ivangarmasev/UnityProjects/Mutation Neural Network
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.0a16 (663b19a0829e)
+[Subsystems] Discovering subsystems at path /Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ivangarmasev/UnityProjects/Mutation Neural Network/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 (high power)
+Metal devices available: 1
+0: Apple M1 (high power)
+Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56577
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001105 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 31.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.257 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  2.530 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/ivangarmasev/UnityProjects/2021.2.0a16/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1956 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 58 unused Assets / (48.0 KB). Loaded Objects now: 2387.
+Memory consumption went from 162.4 MB to 162.4 MB.
+Total: 5.288292 ms (FindLiveObjects: 0.107042 ms CreateObjectMapping: 0.040750 ms MarkObjects: 5.020208 ms  DeleteObjects: 0.119416 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scene/Environment.unity
+  artifactKey: Guid(06b2fa4073efe104cbccd5d4cafe4009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Environment.unity using Guid(06b2fa4073efe104cbccd5d4cafe4009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea18c3bda0b5f5d5e1c50efbb226b5dd') in 0.021142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.063867 seconds.
+  path: Assets/Scene/Graph.mat
+  artifactKey: Guid(b5a2ff040cbe34ba8becf902da865f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Graph.mat using Guid(b5a2ff040cbe34ba8becf902da865f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206eccc56c64f43369c0a87f2b5eb589') in 0.860842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002436 seconds.
+  path: Assets/Resources/BillingMode.json
+  artifactKey: Guid(7a7b01c218fa84dfc9eb3274b2c357f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/BillingMode.json using Guid(7a7b01c218fa84dfc9eb3274b2c357f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bf40892dc63ed1f23372c853c36ecac') in 0.748990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001215 seconds.
+  path: Assets/Scripts/Bot.cs
+  artifactKey: Guid(cc2bfe27adb656946be0b11ecfe43734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Bot.cs using Guid(cc2bfe27adb656946be0b11ecfe43734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d9bd3be088b0782f42acea841af0d1') in 1.460252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000996 seconds.
+  path: Assets/Scene/New Material.mat
+  artifactKey: Guid(dab7c5afd4af298469eee8e05a89e1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/New Material.mat using Guid(dab7c5afd4af298469eee8e05a89e1f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a392fbff5d8dbcb9d66026ce505d1e1e') in 0.013917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001230 seconds.
+  path: Assets/Scripts/Manager.cs
+  artifactKey: Guid(ddcd2570034f3d44681fb060436b7b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Manager.cs using Guid(ddcd2570034f3d44681fb060436b7b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59b722c3ea853150cdc559c0196d701') in 0.001229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001035 seconds.
+  path: Assets/Matrix.txt
+  artifactKey: Guid(8a9c6513b85d542fb86c91eafc9b8f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Matrix.txt using Guid(8a9c6513b85d542fb86c91eafc9b8f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b7be17bdeef07a4a37f2948531219e8') in 1.432314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001325 seconds.
+  path: Assets/Scripts/PointCheck.cs
+  artifactKey: Guid(dd84394d2cee1ac49821d89e3adba396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PointCheck.cs using Guid(dd84394d2cee1ac49821d89e3adba396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1ce9365cc871375c38e60d8e4e411b') in 0.000797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001021 seconds.
+  path: Assets/Scripts/NeuralNetwork.cs
+  artifactKey: Guid(501f7f979eef8a14abd2036b1ce8aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/NeuralNetwork.cs using Guid(501f7f979eef8a14abd2036b1ce8aec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81cd24d110d31fffc352ec10c833d710') in 0.000634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002753 seconds.
+  path: Assets/ModelSave.txt
+  artifactKey: Guid(182953b9fef7b0c4eb9c630a64cfc6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ModelSave.txt using Guid(182953b9fef7b0c4eb9c630a64cfc6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a85f87eb579b0f92d853188d8b3413') in 0.001220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001447 seconds.
+  path: Assets/Scripts/PathFinding.cs
+  artifactKey: Guid(6acae81e55a834ee394b178024756082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PathFinding.cs using Guid(6acae81e55a834ee394b178024756082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f75f4c16d536eb99e9f379b42ad62884') in 0.000728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003825 seconds.
+  path: Assets/Pre-trained.txt
+  artifactKey: Guid(8c87e7c8c26542a4c9e64b52c0099e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pre-trained.txt using Guid(8c87e7c8c26542a4c9e64b52c0099e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bb7bda0fe45f755e5ce6da43e18753') in 0.001899 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001686 seconds.
+  path: Assets/Scene/Car.mat
+  artifactKey: Guid(da860c0eff526834aa9ee114d16642a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Car.mat using Guid(da860c0eff526834aa9ee114d16642a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69deb9e13bfadd9f61d380336625b489') in 0.039400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006515 seconds.
+  path: Assets/Resources/EndPoint.blend
+  artifactKey: Guid(e1ba0a2c806af40cd908055d2c5c6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/EndPoint.blend using Guid(e1ba0a2c806af40cd908055d2c5c6cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a339bf8bb2f83af94d335be719856') in 0.356654 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002180 seconds.
+  path: Assets/nn.txt
+  artifactKey: Guid(d42525d4b43c74170a2252a51bd0fb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/nn.txt using Guid(d42525d4b43c74170a2252a51bd0fb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc4bfca149caa7dce67ec4a88f72026') in 0.001141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001917 seconds.
+  path: Assets/Scene/Save.txt.txt
+  artifactKey: Guid(89a58732d9820ef4eac3797e62ad868b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Save.txt.txt using Guid(89a58732d9820ef4eac3797e62ad868b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34ab956b76bae8790faf7df4b567327') in 0.001049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002850 seconds.
+  path: Assets/Scripts/DoorControl.cs
+  artifactKey: Guid(49e1b6374bbfb4faa84d3e8a077151fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DoorControl.cs using Guid(49e1b6374bbfb4faa84d3e8a077151fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d70dd31edf3ea352b6d72c5e2c786a') in 0.000763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006424 seconds.
+  path: Assets/Scene/Checkpoint.fbx
+  artifactKey: Guid(e134967d9ba6a9049ad6bf42d73ce7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Checkpoint.fbx using Guid(e134967d9ba6a9049ad6bf42d73ce7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ca062b2b7aad5a242d946be5ef2fa5') in 0.190530 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001082 seconds.
+  path: Assets/Scene/track.fbx
+  artifactKey: Guid(0a7f296969ed3fe4486ebf04d738121c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/track.fbx using Guid(0a7f296969ed3fe4486ebf04d738121c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa826b63db623d9b265bdec8fe65b702') in 0.020658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001028 seconds.
+  path: Assets/Scene/Walls.mat
+  artifactKey: Guid(a1abbe765667f8f4b84832233120cf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Walls.mat using Guid(a1abbe765667f8f4b84832233120cf0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66da0cc363abd05c39ff112fdc07dc35') in 0.006236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000951 seconds.
+  path: Assets/Resources/180degrees.blend
+  artifactKey: Guid(43c2c6dba94364083ad29d6e2c21c4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/180degrees.blend using Guid(43c2c6dba94364083ad29d6e2c21c4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3559fd294680facc8a3f58abedc70cf6') in 0.020146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001327 seconds.
+  path: Assets/Scene/Floor.mat
+  artifactKey: Guid(47498ebe202f4da449f703907724c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Floor.mat using Guid(47498ebe202f4da449f703907724c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd04c3c58a2a792e0e543d36f897156') in 0.005855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009214 seconds.
+  path: Assets/Scene/Pre-trained.txt
+  artifactKey: Guid(dbf09427cdda9c34ea404868c58d4914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Pre-trained.txt using Guid(dbf09427cdda9c34ea404868c58d4914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a7bfaea8d96378136fa0dc699d98117') in 0.001103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 273.649577 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5098d8584882922c43c7ace5afc115c') in 0.125281 seconds 
